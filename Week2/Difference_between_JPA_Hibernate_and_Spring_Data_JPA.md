@@ -134,24 +134,6 @@ Spring Data JPA
 
 ------------------------------------------------------------------------
 
-## Interview Questions
-
-**Q1. Is JPA a framework?**
-
-No. JPA is a specification.
-
-**Q2. Can JPA work without Hibernate?**
-
-Yes. JPA can use any implementation such as Hibernate, EclipseLink, or
-OpenJPA.
-
-**Q3. Does Spring Data JPA replace Hibernate?**
-
-No. Spring Data JPA uses JPA, and Hibernate is commonly the JPA
-implementation underneath.
-
-------------------------------------------------------------------------
-
 ## Summary
 
 -   **JPA** defines the standard.
