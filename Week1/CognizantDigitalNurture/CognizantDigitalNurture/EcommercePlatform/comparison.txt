@@ -1,0 +1,13 @@
+Algorithm:
+
+1. Linear Search.
+    Best Case - O(1)
+    Average Case - O(N)
+    Worst Case - O(N)
+    Requirement - Works on any array
+
+2. Binary Search.
+    Best Case - O(1)
+    Average Case - O(logN)
+    Worst Case - O(logN)
+    Requirement - Array must be sorted
