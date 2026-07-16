@@ -34,7 +34,7 @@ Java FSE
     ├── Week 4 - Microservices with Spring Boot 3 and Spring Cloud
     ├── Week 5 – Single Page Application framework - React, Application Debugging
     ├── Week 6 – Version Control (Git)
-    ├── Week 7 – DevOps & CI/CD, Containerization using Docker, Agile Methodology, Cloud Fundamentals, Gen AI Fundamentals
+    
     
 ```
 ---
